@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\..\\проэкт с уроков"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "olekfed"
+	}
+}
